@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+ html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Lucknow FrameHouse | 3BHK Stay Near Medanta & Ekana Stadium | Gomti Nagar</title>
-<meta name="description" content="Lucknow FrameHouse — Spacious 3BHK entire home in Gomti Nagar. Near Medanta Hospital, Vistaar Hospital, Ekana Cricket Stadium & Lulu Mall. 4.8★ Google Rating. 100+ Happy Guests. Book directly & save commission. Call: 9140036258">
+<meta name="description" content="Lucknow FrameHouse — Spacious 3BHK stay in Gomti Nagar. Near Medanta Hospital, Vistaar Hospital, Ekana Cricket Stadium & Lulu Mall. 4.8★ Google Rating. 100+ Happy Guests. Book directly & save commission. Call: 9140036258">
 <meta name="keywords" content="Lucknow Framehouse, stay near Medanta hospital Lucknow, 3BHK Gomti Nagar Lucknow, Lucknow guesthouse, Airbnb Lucknow, homestay Lucknow, accommodation near Ekana stadium, Lucknow corporate stay, medical visitor stay Lucknow, Vistaar hospital accommodation, Phoenix Palassio stay, Lulu Mall Lucknow stay, entire home Lucknow, FrameHouse Lucknow">
 <meta property="og:title" content="Lucknow FrameHouse — 3BHK Gomti Nagar">
 <meta property="og:description" content="4.8★ Google | 4.56★ Airbnb | 100+ Guests | Near Medanta, Ekana, Lulu Mall. Book directly!">
@@ -167,7 +167,7 @@ footer{background:var(--navy);padding:50px 5% 30px;}
 <nav>
   <div class="nav-inner">
     <div class="brand">
-      <div class="brand-icon">F</div>
+      <div class="brand-icon"/div>
       <div class="brand-text">
         <div class="brand-name">Lucknow FrameHouse</div>
         <div class="brand-sub">Gomti Nagar · Lucknow</div>
