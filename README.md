@@ -1,4 +1,5 @@
-Looking for a comfortable stay in Lucknow for medical visits, business trips, or family stays?
+<div class=“highlight-box”> Looking for a comfortable stay in Lucknow for medical visits, business trips, or family stays?
+</div>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
