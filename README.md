@@ -10,7 +10,7 @@
 <meta property="og:description" content="4.8★ Google | 4.56★ Airbnb | 100+ Guests | Near Medanta, Ekana, Lulu Mall. Book directly!">
 <meta property="og:type" content="website">
 <meta name="robots" content="index, follow">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"LodgingBusiness","name":"Lucknow FrameHouse","description":"Spacious 3BHK entire home in Gomti Nagar, Lucknow. Near Medanta Hospital, Vistaar Hospital, Ekana Cricket Stadium, Phoenix Palassio, and Lulu Mall.","address":{"@type":"PostalAddress","streetAddress":"Vistar Sector 6, Malesemau","addressLocality":"Gomti Nagar","addressRegion":"Lucknow, Uttar Pradesh","addressCountry":"IN"},"telephone":"+919140036258","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":"100"},"numberOfRooms":3,"petsAllowed":true}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"LodgingBusiness","name":"Lucknow FrameHouse","description":"Spacious 3BHK entire home in Gomti Nagar, Lucknow. Near Medanta Hospital, Vistaar Hospital, Ekana Cricket Stadium, Phoenix Palassio, and Lulu Mall.","address":{"@type":"PostalAddress","streetAddress":"Lucknow Framehouse on Google map 913 Vistar Sector 6,","addressLocality":"Gomti Nagar","addressRegion":"Lucknow, Uttar Pradesh","addressCountry":"IN"},"telephone":"+919140036258","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.8","reviewCount":"100"},"numberOfRooms":3,"petsAllowed":true}</script>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--navy:#0f1923;--navy2:#1a2d3d;--gold:#c8a45a;--gold2:#e2c07a;--cream:#faf6ef;--white:#ffffff;--text:#1e2a35;--muted:#64748b;--green:#15803d;--border:rgba(200,164,90,0.2);--shadow:0 20px 60px rgba(15,25,35,0.12);}
@@ -317,7 +317,6 @@ footer{background:var(--navy);padding:50px 5% 30px;}
       <div class="amen-item"><span>🔑</span> Self Check-in</div>
       <div class="amen-item"><span>🚿</span> 3 Private Bathrooms</div>
       <div class="amen-item"><span>🛁</span> Hot Water 24/7</div>
-      <div class="amen-item"><span>🧺</span> Washing Machine</div>
       <div class="amen-item"><span>🧊</span> Refrigerator</div>
       <div class="amen-item"><span>☕</span> Microwave</div>
       <div class="amen-item"><span>🔒</span> Security Cameras</div>
